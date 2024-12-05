@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🌱 I’m currently learning **Full Stack Development technologies**
+- 🌱 I’m currently learning **Full Stack technologies**
 
 - 👨‍💻 All of my projects are available at [https://mrabdulla3.github.io/portfolio/portfolio](https://mrabdulla3.github.io/portfolio/portfolio)
 
