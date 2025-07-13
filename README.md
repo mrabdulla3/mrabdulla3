@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://mrabdulla3.github.io/portfolio/portfolio](https://mrabdulla3.github.io/portfolio/portfolio)
 
 - 📫 How to reach me **abdullagaur6559@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_19_gbqRBJoYgDjbfTXdRSU8pBmiEjNO/view?usp=sharing](https://drive.google.com/file/d/1245UNjBv3MMcLueRWFGm8XRB0YtO0Qrg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1245UNjBv3MMcLueRWFGm8XRB0YtO0Qrg/view?usp=sharing](https://drive.google.com/file/d/1245UNjBv3MMcLueRWFGm8XRB0YtO0Qrg/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
