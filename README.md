@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack technologies**
 
-- 👨‍💻 All of my projects are available at [https://mrabdulla3.github.io/portfolio/portfolio](https://mrabdulla3.github.io/portfolio/portfolio)
+- 👨‍💻 All of my projects are available at https://abdullagaur.vercel.app/
 
 - 📫 How to reach me **abdullagaur6559@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1245UNjBv3MMcLueRWFGm8XRB0YtO0Qrg/view?usp=sharing](https://drive.google.com/file/d/1245UNjBv3MMcLueRWFGm8XRB0YtO0Qrg/view?usp=sharing)
